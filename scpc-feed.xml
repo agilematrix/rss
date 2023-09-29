@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>SCPolicyCouncil-Education</title>
+    <link>https://scpolicycouncil.org/education</link>
+    <description>This is an RSS feed for education contents from SCPC.</description>
+    <language>en-us</language>
+    <atom:link href="https://scpolicycouncilarchive.org/rssfeed/scpc-education-feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Keep an eye on these educational reforms in 2024</title>
+      <link>https://www.scpolicycouncil.org/keep_an_eye_on_these_educational_reforms_in_2024</link>
+      <description>Recently, we published an overview of South Carolina's national rankings across different performance indicators in education. We found that South Carolina lags behind other states when it comes to test scores, graduation rates, and reading proficiency for eighth-grade students.  </description>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
+      <category>Education</category>
+      <author>sam@scpolicycouncil.org (Sam Aaron)</author>
+      <content:encoded><![CDATA[
+      <img src="https://assets.nationbuilder.com/southcarolinapolicycouncil/pages/209/meta_images/original/AdobeStock_220679902_%281%29.jpeg?1692376370" />
+
+      ]]></content:encoded>
+      <guid isPermaLink="false">011E</guid>
+    </item>
+    <item>
+      <title>South Carolina's educational shortcomings (and a brighter future ahead)</title>
+      <link>https://www.scpolicycouncil.org/snapshot_south_carolina_s_educational_shortcomings_a_brighter_future_ahead</link>
+      <description>It's no secret that South Carolina ranks behind other states when it comes to education. With school starting back up this month, let’s look at some recent education figures and talk about what can be done to turn things around.</description>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
+      <category>Education</category>
+      <author>sam@scpolicycouncil.org (Sam Aaron)</author>
+      <content:encoded><![CDATA[
+      <img src="https://assets.nationbuilder.com/southcarolinapolicycouncil/pages/207/meta_images/original/Classroom-Management-for-an-Effective-Learning-Environment-scaled.jpg?1691196982" />
+  ]]></content:encoded>
+      <guid isPermaLink="false">011D</guid>
+    </item>
+    <item>
+      <title>Why SC should pass both school choice proposals</title>
+      <link>https://www.scpolicycouncil.org/why_sc_should_pass_both_school_choice_proposals</link>
+      <description>Update 3/16/23: After adopting the Finance Committee’s amendment and adding several other amendments on the floor, the full Senate passed S.285 by a vote of 28-9.</description>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+      <author>sam@scpolicycouncil.org (Sam Aaron)</author>
+      <category>Education</category>
+      <content:encoded><![CDATA[
+      <img src="https://assets.nationbuilder.com/southcarolinapolicycouncil/pages/93/meta_images/original/Classroom-pic-1-1024x680.jpeg?1680714775" />
+  ]]></content:encoded>
+      <guid isPermaLink="false">011C</guid>
+    </item>
+    <item>
+      <title>SC’s special-needs scholarship program needs reform</title>
+      <link>https://www.scpolicycouncil.org/sc_s_special_needs_scholarship_program_needs_reform</link>
+      <description>TWO LEGISLATIVE PROPOSALS HAVE BIG POTENTIAL By Sam Aaron and Bryce Fiedler Despite good intentions, South Carolina’s special-needs scholarship program is failing to meet its goals, and major change is needed to ensure the state’s roughly 100,000 children with disabilities are getting the education services they need.</description>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+      <author> sam@scpolicycouncil.org (Sam Aaron)</author>
+      <category>Education</category>
+      <content:encoded><![CDATA[
+      <img src="https://assets.nationbuilder.com/southcarolinapolicycouncil/pages/92/meta_images/original/school-choice-e1512484081128_%282%29.jpg?1680714590" />
+  ]]></content:encoded>
+      <guid isPermaLink="false">011B</guid>
+    </item>
+    <item>
+      <title>Analysis: Blurring the line between education and job training</title>
+      <link>https://www.scpolicycouncil.org/analysis_blurring_the_line_between_education_and_job_training_updated</link>
+      <description>Update as of 2/12/22: H.4766, which would add more seats and give more power to the Coordinating Council for Workforce Development, passed the S.C. House on Feb. 8.</description>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+      <author>bryce@scpolicycouncil.org (Bryce Fiedler)</author>
+      <category>Education</category>
+      <content:encoded><![CDATA[
+      <img src="https://assets.nationbuilder.com/southcarolinapolicycouncil/pages/106/meta_images/original/classroom-floor-1024x681.jpg?1681311045" />
+  ]]></content:encoded>
+      <guid isPermaLink="false">011A</guid>
+    </item>
+    
+  </channel>
+</rss>
